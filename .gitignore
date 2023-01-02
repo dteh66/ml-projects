@@ -1,2 +1,8 @@
 /Datasets
 /MNIST
+.ipynb_checkpoints
+.vscode
+/logs
+.DS_Store
+/jovianAI/.ipynb_checkpoints
+/jovianAI/data
