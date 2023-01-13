@@ -6,5 +6,5 @@
 .DS_Store
 /jovianAI/.ipynb_checkpoints
 /jovianAI/data
-.DS_Store
 /cryptomodels
+Transformers/__pycache__/
